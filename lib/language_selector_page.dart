@@ -16,6 +16,7 @@ class _LanguageSelectorPageState extends State<LanguageSelectorPage> {
   final Map<dynamic, dynamic> languagesMap = {
     languagesList[0]: languageCodesList[0],
     languagesList[1]: languageCodesList[1],
+    languagesList[2]: languageCodesList[2],
   };
 
   @override

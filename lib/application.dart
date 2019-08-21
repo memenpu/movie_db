@@ -13,11 +13,13 @@ class Application {
   final List<String> supportedLanguages = [
     "English",
     "Spanish",
+    "Chinese",
   ];
 
   final List<String> supportedLanguagesCodes = [
     "en",
     "es",
+    "zh",
   ];
 
   //returns the list of supported Locales
